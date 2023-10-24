@@ -4,7 +4,7 @@
 
 ## Gestion des Salles
 
-[![Room Management Video](sale.mp4)](sale.mp4)
+[![](sale.mp4)](./sale.mp4)
 
 ## Gestion des Machines
 ![Machine Management Video](machine.mp4)
