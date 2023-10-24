@@ -1,6 +1,6 @@
 # TP_RMI
 ## Base de données
-![Database Schema](./db.png)
+![Database Schema](./image.png)
 
 ## Gestion des Salles
 
